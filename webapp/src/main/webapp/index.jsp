@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Register</h1>
+    <h1>New User Register</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
@@ -30,6 +30,6 @@
 <!-- <!DOCTYPE html>
 <html>
 <body>
-  <h1>I love my wife</h1>
+  <h1>Rehan's first devops project</h1>
 </body>
 </html> -->
